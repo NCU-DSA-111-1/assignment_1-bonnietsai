@@ -17,7 +17,7 @@
 ## Compile & Run
 ```sh
 # Compile
-gcc -c assignment_108501537_1.c
+gcc assignment_108501537_1.c -lm
 # Run
-./assignment_108501537_1
+./a.out
 ```
